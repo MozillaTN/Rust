@@ -1,7 +1,7 @@
 #RUST LINKS
 ------------
 
-####1. Rust Tutorial
+####* Rust Tutorial
 <https://www.youtube.com/watch?v=U1EFgCNLDB8>
 
 ####2. System Programming
