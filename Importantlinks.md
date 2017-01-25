@@ -7,7 +7,7 @@
 ####2. System Programming
 <https://en.wikipedia.org/wiki/System_programming>
 
-#####3. Buffer Overflow
+#####3. Rust features
 <http://searchsecurity.techtarget.com/definition/buffer-overflow>
 
 <http://softwareengineering.stackexchange.com/questions/313254/how-does-the-python-runtime-actually-work>
@@ -38,7 +38,8 @@
 ####10. Rustaceans profile:
 <http://www.rustaceans.org/dvigneshwer>
 
+####11. Testing GitHub codes
 https://travis-ci.org
 
-####11. Manishearth:
+####12. Manishearth:
 <https://github.com/Manishearth/rust-clippy>
