@@ -1,7 +1,8 @@
 # RUST LINKS
 
-## Introductary Materialintroductorys
+## Introductory Materialintroductorys
 * [Introduction to Rust Tutorial](https://www.youtube.com/watch?v=U1EFgCNLDB8)
+* [Intermediate Kit](https://github.com/mozillascience/studyGroupLessons/tree/master/Rust-intro)
 
 
 ## Problems Spaces of system programming language
