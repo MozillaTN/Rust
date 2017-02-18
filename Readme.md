@@ -31,5 +31,6 @@ This repo contains the following details,
 
 ## Community Channels: 
 * [Telegram Group Link](https://t.me/joinchat/AAAAAEFQaXicCPeaeVIm_Q)
+* [Rust India Slack Channel](http://rustindia.herokuapp.com)
 
 For any queries raise a [issue](https://github.com/mozillatn/rust/issues) and please feel free to submit a PR anytime :) 
