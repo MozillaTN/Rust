@@ -4,6 +4,7 @@
 * [Introduction to Rust Tutorial](https://www.youtube.com/watch?v=U1EFgCNLDB8)
 * [Intermediate Kit](https://github.com/mozillascience/studyGroupLessons/tree/master/Rust-intro)
 * [Slides](http://angrylawyer.github.io/a-dabblers-adventures-in-rust/#slide1)
+* [Web Development with Rust](http://amitkumarj441.github.io/Presentation/Rust)
 
 
 ## Problems Spaces of system programming language
