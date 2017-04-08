@@ -1,6 +1,7 @@
 # RUST LINKS
 
 ## Introductory Material
+* [Rust Slides](https://dvigneshwer.github.io/files/Deep_drive_into_Rust_programming_language.pdf)
 * [Introduction to Rust Tutorial](https://www.youtube.com/watch?v=U1EFgCNLDB8)
 * [Intermediate Kit](https://github.com/mozillascience/studyGroupLessons/tree/master/Rust-intro)
 * [Slides](http://angrylawyer.github.io/a-dabblers-adventures-in-rust/#slide1)
