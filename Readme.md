@@ -1,3 +1,5 @@
+Note: This repo is not longer maintained, please use [RustIndia](https://github.com/MozillaIndia/RustIndia) repo.
+
 # Rust India Community Repo
 
 This repo contains the following details,
